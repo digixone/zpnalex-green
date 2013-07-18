@@ -10,7 +10,7 @@
 
 
     <!-- styles -->
-	<link href="/etc/styles/zpanelx-green/css/bootstrap.css" rel="stylesheet">
+    <link href="/etc/styles/zpanelx-green/css/bootstrap.css" rel="stylesheet">
     <link href="/etc/styles/zpanelx-green/css/style.css" rel="stylesheet">
     <link href="/etc/styles/zpanelx-green/css/login.css" rel="stylesheet">
 
